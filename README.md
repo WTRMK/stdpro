@@ -1,0 +1,2 @@
+’’’fasm
+include 'stdpro.inc'
